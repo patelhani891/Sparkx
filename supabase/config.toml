@@ -1,0 +1,7 @@
+project_id = "cqbezrgoxdlxoiqphngb"
+
+[functions.generate-images]
+verify_jwt = false
+
+[functions.generate-poster]
+verify_jwt = false
